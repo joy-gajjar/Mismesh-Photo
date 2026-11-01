@@ -1,0 +1,8 @@
+{
+  "name": "StudioBrand - Commercial Product Photography & Watermark Studio",
+  "description": "Transform raw product photos into commercial studio photography with complementary gradient backgrounds and consistent top-right brand watermarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
